@@ -1,0 +1,13 @@
+{
+  "name": "semap",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SEMAP – Mapa de Salas Inteligente (SENAC Ipatinga): agendamento de ambientes de aprendizagem, executado localmente.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
